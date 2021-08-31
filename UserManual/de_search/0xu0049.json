@@ -1,0 +1,16 @@
+[
+	{ "s": "IDENTIDAD", "p": [6] },
+	{ "s": "INCONSISTENCIA", "p": [6] },
+	{ "s": "INFORMACIÓN", "p": [7, 2] },
+	{ "s": "INFORMARÁ", "p": [6] },
+	{ "s": "INGRESADO", "p": [6] },
+	{ "s": "INGRESADOS", "p": [6] },
+	{ "s": "INGRESAR", "p": [6, 4] },
+	{ "s": "INGRESE", "p": [2] },
+	{ "s": "INGRESO", "p": [4] },
+	{ "s": "INICIAR", "p": [3] },
+	{ "s": "INICIO", "p": [4, 3] },
+	{ "s": "INPUT", "p": [6, 7] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTRODUCIR", "p": [6] }
+]

@@ -1,0 +1,6 @@
+[
+	{ "s": "FECHA", "p": [6] },
+	{ "s": "FEMENINO", "p": [6] },
+	{ "s": "FINALIZAR", "p": [6] },
+	{ "s": "FORMULARIO", "p": [8, 6] }
+]

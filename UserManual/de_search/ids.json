@@ -1,0 +1,10 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Página... ¡Se requiere una licencia Advanced!", "pagina_principal.htm", []],
+	"3": ["1.1. inic... ¡Se requiere una licencia Advanced!", "iniciar_sesion.htm", [1]],
+	"4": ["1.1.1. Ingreso ... ¡Se requiere una licencia Advanced!", "ingreso_de_credenciales_.htm", [1,3]],
+	"5": ["2. Menú ... ¡Se requiere una licencia Advanced!", "menu_principal.htm", []],
+	"6": ["2.1. Regist... ¡Se requiere una licencia Advanced!", "registrar_jugador.htm", [2]],
+	"7": ["2.2. Edita... ¡Se requiere una licencia Advanced!", "editar_jugador_.htm", [2]],
+	"8": ["2.3. Borr... ¡Se requiere una licencia Advanced!", "borrar_jugador.htm", [2]]
+}

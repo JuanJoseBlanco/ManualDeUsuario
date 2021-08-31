@@ -1,0 +1,17 @@
+[
+	{ "s": "EDICIÓN", "p": [5, 4] },
+	{ "s": "EDITAR", "p": [7, 8, 5] },
+	{ "s": "EL", "p": [6, 8, 7, 5, 4, 3] },
+	{ "s": "ELECTRÓNICO", "p": [6] },
+	{ "s": "ELIMINACIÓN", "p": [8, 5] },
+	{ "s": "ELIMINADO", "p": [8] },
+	{ "s": "ELIMINAR", "p": [5] },
+	{ "s": "EN", "p": [6, 4, 8, 3, 7, 2] },
+	{ "s": "ENCUENTRA", "p": [2] },
+	{ "s": "ENTRE", "p": [6] },
+	{ "s": "EPS", "p": [6] },
+	{ "s": "ESCOGER", "p": [6] },
+	{ "s": "ESTATURA", "p": [6] },
+	{ "s": "ESTE", "p": [5, 4, 8, 7, 3] },
+	{ "s": "EXACTAMENTE", "p": [6] }
+]

@@ -1,0 +1,17 @@
+[
+	{ "s": "DATOS", "p": [4, 7, 6] },
+	{ "s": "DE", "p": [6, 4, 5, 3, 8, 2, 1] },
+	{ "s": "DEBE", "p": [6, 7, 4] },
+	{ "s": "DEBERÁ", "p": [8, 4, 3] },
+	{ "s": "DEL", "p": [6, 7, 8, 5] },
+	{ "s": "DESDE", "p": [8, 6, 2] },
+	{ "s": "DESEE", "p": [8] },
+	{ "s": "DIFERENTE", "p": [2] },
+	{ "s": "DIGITAR", "p": [7] },
+	{ "s": "DILIGENCIAMIENTO", "p": [6] },
+	{ "s": "DILIGENCIAR", "p": [6] },
+	{ "s": "DIRECCIÓN", "p": [7, 6] },
+	{ "s": "DISFUTAR", "p": [3] },
+	{ "s": "DOCUMENTO", "p": [6] },
+	{ "s": "DONDE", "p": [5, 2] }
+]

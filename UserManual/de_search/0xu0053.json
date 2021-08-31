@@ -1,0 +1,14 @@
+[
+	{ "s": "SE", "p": [2, 6] },
+	{ "s": "SEA", "p": [8] },
+	{ "s": "SELECCIONADO", "p": [5] },
+	{ "s": "SELECCIONAR", "p": [7, 6] },
+	{ "s": "SELECT", "p": [6, 7] },
+	{ "s": "SERVICIOS", "p": [3] },
+	{ "s": "SESIÓN", "p": [3, 4] },
+	{ "s": "SIGUIENTE", "p": [6, 2] },
+	{ "s": "SISTEMA", "p": [7, 6, 4] },
+	{ "s": "SU", "p": [4, 5] },
+	{ "s": "SUPERIOR", "p": [2] },
+	{ "s": "SUS", "p": [4] }
+]

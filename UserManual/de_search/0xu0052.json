@@ -1,0 +1,7 @@
+[
+	{ "s": "REALIZAR", "p": [5] },
+	{ "s": "REDIRIJA", "p": [4] },
+	{ "s": "REGISTRAR", "p": [6, 5] },
+	{ "s": "REGISTRO", "p": [6, 5] },
+	{ "s": "ROCKETS", "p": [1] }
+]

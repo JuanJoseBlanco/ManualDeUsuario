@@ -1,0 +1,21 @@
+[
+	{ "s": "CALENDARIO", "p": [6] },
+	{ "s": "CAMPO", "p": [4] },
+	{ "s": "CAMPOS", "p": [6] },
+	{ "s": "CARACTERES", "p": [6] },
+	{ "s": "CARÁCTERES", "p": [6] },
+	{ "s": "CASO", "p": [6] },
+	{ "s": "CLASIFICADOS", "p": [5] },
+	{ "s": "CLIC", "p": [3, 4] },
+	{ "s": "CLICK", "p": [8, 7, 6] },
+	{ "s": "COMPLETAR", "p": [6] },
+	{ "s": "CON", "p": [6] },
+	{ "s": "CONFIRMACIÓN", "p": [8] },
+	{ "s": "CONFIRMAR", "p": [8] },
+	{ "s": "CONOCENOS", "p": [3] },
+	{ "s": "CONTINUACIÓN", "p": [5, 4] },
+	{ "s": "CONTRASEÑA", "p": [4] },
+	{ "s": "CORREO", "p": [6] },
+	{ "s": "CREDENCIALES", "p": [4] },
+	{ "s": "CUADO", "p": [2] }
+]
